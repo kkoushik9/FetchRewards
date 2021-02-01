@@ -97,7 +97,7 @@ This is for the Fetch Rewards Coding Exercise. The Application was developed in 
 
 ---
 
-## 1. Deduct points from the User
+## 3. Deduct points from the User
 
 <br/>
 
