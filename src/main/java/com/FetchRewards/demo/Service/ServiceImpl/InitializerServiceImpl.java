@@ -22,11 +22,11 @@ public class InitializerServiceImpl implements InitializerService{
 	@Override
 	public void populateInitialData() {
 		// TODO Auto-generated method stub
-		userService.addTransaction(new Transaction("dannon", 300, LocalDateTime.parse("2020-11-02T14:15:30")));
-		userService.addTransaction(new Transaction("unilever", 200, LocalDateTime.parse("2020-11-02T14:15:30")));
-		userService.addTransaction(new Transaction("dannon", -200, LocalDateTime.parse("2020-11-02T14:15:30")));
-		userService.addTransaction(new Transaction("miller coors", 10000, LocalDateTime.parse("2020-11-02T14:15:30")));
-		userService.addTransaction(new Transaction("dannon", 1000, LocalDateTime.parse("2020-11-02T14:15:30")));
+//		userService.addTransaction(new Transaction("dannon", 300, LocalDateTime.parse("2020-11-02T14:15:30")));
+//		userService.addTransaction(new Transaction("unilever", 200, LocalDateTime.parse("2020-11-02T14:15:30")));
+//		userService.addTransaction(new Transaction("dannon", -200, LocalDateTime.parse("2020-11-02T14:15:30")));
+//		userService.addTransaction(new Transaction("miller coors", 10000, LocalDateTime.parse("2020-11-02T14:15:30")));
+//		userService.addTransaction(new Transaction("dannon", 1000, LocalDateTime.parse("2020-11-02T14:15:30")));
 	}
 	
 	
